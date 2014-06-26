@@ -1,0 +1,6 @@
+
+.bcktoTop{position:fixed;right:10px;bottom:10%;z-index:10;background:#959595;}
+.bcktoTop a{display:block;width:28px;height:14px;background: #959595;padding:17px 11px;cursor:pointer;}
+.bcktoTop a:hover{background: #fff; cursor:pointer;}
+.bcktoTop a .dwnarrw{background:url('../images/sprite.png') -103px -116px no-repeat; display:block;width:28px;height:14px;cursor:pointer;}
+.bcktoTop a:hover .dwnarrw{background:url('../images/sprite.png') -137px -116px no-repeat; cursor:pointer;}
